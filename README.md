@@ -5,16 +5,12 @@
     <a href="https://github.com/Boikki/Boikki"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/c++11-red"></a>
 </p>
-
 <!--   my-header-img -->
 ![](./src/header_.png)
-<a href="https://isocpp.org"><img src="https://en.wikipedia.org/wiki/File:ISO_C%2B%2B_Logo.svg" align="right" height="48" width="48" ></a>
+
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋;+Welcome+to+My+Profile!;Always+learning+new+things+;C+++Graphics+Linux+enthusiast+)](https://git.io/typing-svg)
-
-
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋;+Welcome+to+My+Profile!;Always+learning+new+things+;C+++Graphics+Linux+enthusiast+)
 
 <!--   my-skils -->
 
