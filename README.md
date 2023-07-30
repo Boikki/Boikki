@@ -10,7 +10,7 @@
 ![](src/header_.png)
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋;+Welcome+to+My+Profile!;Always+learning+new+things+;C+++Grapgics+Linux+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋;+Welcome+to+My+Profile!;Always+learning+new+things+;C+++Grapgics+Linux+enthusiast+)](https://git.io/typing-svg)
 
 
 
