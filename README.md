@@ -6,8 +6,8 @@
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/c++11-red"></a>
 </p>
 <!--   my-header-img -->
+
 ![](src/header_.png)
-<a href=""><img src="https://media.licdn.com/dms/image/C5616AQEler_psh4dvQ/profile-displaybackgroundimage-shrink_200_800/0/1645110464001?e=2147483647&v=beta&t=yoNcf-HsBz4OM2eMx-19XJMO-zHSFkexFoipcpmPYvM" align="right" height="48" width="48" ></a>
 
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋;+Welcome+to+My+Profile!;Always+learning+new+things+;C+++Grapgics+Linux+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
