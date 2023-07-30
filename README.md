@@ -6,11 +6,13 @@
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/c++11-red"></a>
 </p>
 <!--   my-header-img -->
-![](./src/header_.png)
-
+![](src/header_.png)
+<a href=""><img src="" align="right" height="48" width="48" ></a>
 
 <!--   my-ticker -->    
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋;+Welcome+to+My+Profile!;Always+learning+new+things+;C+++Graphics+Linux+enthusiast+)(https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋;+Welcome+to+My+Profile!;Always+learning+new+things+;C+++Grapgics+Linux+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+
+
 
 <!--   my-skils -->
 
